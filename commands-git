@@ -6,3 +6,10 @@ git add .
 git commit -m "message de commit"
 git push origin main
 git pull origin main
+
+# Commande pour créer une branche
+git branch nom-de-la-branche
+
+# Commande pour changer de branche
+git checkout nom-de-la-branche
+
